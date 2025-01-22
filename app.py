@@ -179,6 +179,6 @@ def main():
 
 if __name__ == '__main__':
     print('Ok')
-    Thread(target=main).start()
+    Thread(target=app.run).start()
     print('Web')
-    app.run()
+    main()
