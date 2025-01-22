@@ -143,6 +143,7 @@ class sunwin_oop:
 
 def main():
     # Config telegram 
+    print('Bot')
     telegram_client = telegram_bot()
     telegram_client.send_message('Bot run')
     # Login
@@ -177,5 +178,7 @@ def main():
 
 
 if __name__ == '__main__':
+    print('Ok')
     Thread(target=main).start()
+    print('Web')
     app.run()
