@@ -1,0 +1,17 @@
+{ 
+    "login": { 
+        "command": "loginHash", 
+        "username": "minhtaixiu121", 
+        "password": "Minh1234", 
+        "platformId": 1, 
+        "advId": "00000000-0000-0000-0000-000000000000", 
+        "deviceId": "36F0077E-F0D4-4D10-887B-E9851ADE17AF", 
+        "hash": "ec88f9d9c5e431c459b13071aa8a293a", 
+        "brand": "sun.win" 
+      }, 
+    "telegram_bot_token": "7549946617:AAH_OM9vTyYHjo5DPZqEgfpxv0SApin4qE4", 
+    "admins_id": [ 
+        1813881428, 
+        6262303608 
+    ] 
+}
